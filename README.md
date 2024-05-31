@@ -1,0 +1,5 @@
+- 👋 Hi, I'm @alfasean
+- 🔭 I’m currently looking for job
+- 😄 I’m interested in Web Development and Game Development
+- 👯 I’m looking to collaborate on any projects
+- 👀 You can see my portofolio on https://hello-alfa.netlify.app/
